@@ -1,14 +1,14 @@
 {
-  "main.css": "/ds-website/static/css/main.51d46986.chunk.css",
-  "main.js": "/ds-website/static/js/main.83099b44.chunk.js",
-  "main.js.map": "/ds-website/static/js/main.83099b44.chunk.js.map",
-  "runtime~main.js": "/ds-website/static/js/runtime~main.c9c6225b.js",
-  "runtime~main.js.map": "/ds-website/static/js/runtime~main.c9c6225b.js.map",
-  "static/js/2.21f7f8bb.chunk.js": "/ds-website/static/js/2.21f7f8bb.chunk.js",
-  "static/js/2.21f7f8bb.chunk.js.map": "/ds-website/static/js/2.21f7f8bb.chunk.js.map",
-  "index.html": "/ds-website/index.html",
-  "precache-manifest.2acd75a37eae6e618fb81ae5a33a218c.js": "/ds-website/precache-manifest.2acd75a37eae6e618fb81ae5a33a218c.js",
-  "service-worker.js": "/ds-website/service-worker.js",
-  "static/css/main.51d46986.chunk.css.map": "/ds-website/static/css/main.51d46986.chunk.css.map",
-  "static/media/App.css": "/ds-website/static/media/deborah.f96e36e7.jpg"
+  "main.css": "/static/css/main.ec5a5535.chunk.css",
+  "main.js": "/static/js/main.bebef1c8.chunk.js",
+  "main.js.map": "/static/js/main.bebef1c8.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.c5541365.js",
+  "runtime~main.js.map": "/static/js/runtime~main.c5541365.js.map",
+  "static/js/2.21f7f8bb.chunk.js": "/static/js/2.21f7f8bb.chunk.js",
+  "static/js/2.21f7f8bb.chunk.js.map": "/static/js/2.21f7f8bb.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.4db5f21d1984c78ead9dbac72f16f7d8.js": "/precache-manifest.4db5f21d1984c78ead9dbac72f16f7d8.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/main.ec5a5535.chunk.css.map": "/static/css/main.ec5a5535.chunk.css.map",
+  "static/media/App.css": "/static/media/deborah.f96e36e7.jpg"
 }
